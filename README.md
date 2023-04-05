@@ -6,6 +6,9 @@ Well, first you need to think that I developed this simple game to be executed b
 
 As we have some dependencies, then you need to run the folllowing command to install the dependecies:
 
+## Observation
+To use `readline` you do not need a external package.
+
 ## Run
 node index.js
 
