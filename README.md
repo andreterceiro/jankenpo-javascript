@@ -9,6 +9,10 @@ As we have some dependencies, then you need to run the folllowing command to ins
 ## Observation
 To use `readline` you do not need a external package.
 
+## Demonstration
+
+[https://youtu.be/-zUhpa5ZOMQ](https://youtu.be/-zUhpa5ZOMQ)
+
 ## Run
 node index.js
 
